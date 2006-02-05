@@ -1,0 +1,40 @@
+DBIx-Class-UUIDColumns-PP
+
+UUIDColumns with a pure Perl implementation of UUID.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+    perl Build.PL
+    ./Build
+    ./Build test
+    ./Build install
+
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the perldoc command.
+
+    perldoc DBIx::Class::UUIDColumns::PP
+
+You can also look for information at:
+
+    Search CPAN
+        http://search.cpan.org/dist/DBIx-Class-UUIDColumns-PP
+
+    CPAN Request Tracker:
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=DBIx-Class-UUIDColumns-PP
+
+    AnnoCPAN, annotated CPAN documentation:
+        http://annocpan.org/dist/DBIx-Class-UUIDColumns-PP
+
+    CPAN Ratings:
+        http://cpanratings.perl.org/d/DBIx-Class-UUIDColumns-PP
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2006 Simon Elliott
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.

@@ -1,0 +1,8 @@
+--- #YAML:1.0
+name: DBIx-Class-UUIDColumns-PP
+version: 0.01
+author:
+  - Simon Elliott <cpan@browsing.co.uk>
+abstract: 
+license: perl
+generated_by: Module::Build version 0.2611, without YAML.pm
